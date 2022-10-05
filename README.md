@@ -5,4 +5,4 @@ The goal in the game is to hit (shoot) every part of every ship, in an 8 x 8 gri
 
 I've included binary releases for Linux and Windows systems (x86_64 CPU architecture). If you use a different system / CPU architecture, compile the program yourself.
 
-Compilation example: `gcc foss-naval-battle.c -o foss-naval-battle`.
+Compilation example: `gcc foss-naval-battle.c -o foss-naval-battle`
